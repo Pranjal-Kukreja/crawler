@@ -20,3 +20,6 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# The development log is published as docs/build_log.md
+/log.md
