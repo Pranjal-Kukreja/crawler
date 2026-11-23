@@ -1,0 +1,32 @@
+live robots.txt matches ./robots.txt
+[1] depth 0 200 net   https://www.iitp.ac.in/departments/computer-science-engineering
+[2] depth 0 200 net   https://www.iitp.ac.in/admissions
+[3] depth 0 200 net   https://www.iitp.ac.in/research/r&d-home
+[4] depth 0 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department
+[5] depth 1 200 net   https://www.iitp.ac.in/news
+[6] depth 1 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/administrators
+[7] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/directory
+[8] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/courses
+[9] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty
+[10] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/facilities
+[11] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/research
+[12] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/awards-recognition
+[13] depth 1 200 net   https://www.iitp.ac.in/news/department/computer-science-engineering
+[14] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/contact
+[15] depth 1 200 net   https://www.iitp.ac.in/research/industrial-consultancy-projects
+[16] depth 1 200 net   https://www.iitp.ac.in/research/people
+[17] depth 1 200 net   https://www.iitp.ac.in/research/innovation-and-ipr
+[18] depth 1 200 net   https://www.iitp.ac.in/research/latest-research-in-news
+[19] depth 1 200 net   https://www.iitp.ac.in/research/regulation
+[20] depth 1 200 net   https://www.iitp.ac.in/research/research-ethics
+[21] depth 1 200 net   https://www.iitp.ac.in/research/technology-commercialized
+[22] depth 1 200 net   https://www.iitp.ac.in/research/technology-licensing
+[23] depth 1 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units
+[24] depth 1 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/board-of-governors
+[25] depth 1 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/finance-committee
+[26] depth 1 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/office-of-registrar
+[27] depth 2 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/accounts-and-audits
+[28] depth 2 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/security-unit
+[29] depth 2 200 net   https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/establishment-and-administration
+
+84 URLs seen, 29 accepted, 30 network requests this run

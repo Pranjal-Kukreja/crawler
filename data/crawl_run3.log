@@ -1,0 +1,38 @@
+live robots.txt matches ./robots.txt
+[1] depth 0 200 cache https://www.iitp.ac.in/departments/computer-science-engineering
+[2] depth 0 200 cache https://www.iitp.ac.in/admissions
+[3] depth 0 200 cache https://www.iitp.ac.in/research/r&d-home
+[4] depth 0 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department
+[5] depth 1 200 cache https://www.iitp.ac.in/news
+[6] depth 1 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/administrators
+[7] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/directory
+[8] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/courses
+[9] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/faculty
+[10] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/facilities
+[11] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/research
+[12] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/awards-recognition
+[13] depth 1 200 cache https://www.iitp.ac.in/news/department/computer-science-engineering
+[14] depth 1 200 cache https://www.iitp.ac.in/departments/computer-science-engineering/contact
+[15] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=62
+[16] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=65
+[17] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=69
+[18] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=95
+[19] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=96
+[20] depth 1 200 net   https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=97
+[21] depth 1 200 cache https://www.iitp.ac.in/research/industrial-consultancy-projects
+[22] depth 1 200 cache https://www.iitp.ac.in/research/people
+[23] depth 1 200 cache https://www.iitp.ac.in/research/innovation-and-ipr
+[24] depth 1 200 cache https://www.iitp.ac.in/research/latest-research-in-news
+[25] depth 1 200 cache https://www.iitp.ac.in/research/regulation
+[26] depth 1 200 cache https://www.iitp.ac.in/research/research-ethics
+[27] depth 1 200 cache https://www.iitp.ac.in/research/technology-commercialized
+[28] depth 1 200 cache https://www.iitp.ac.in/research/technology-licensing
+[29] depth 1 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units
+[30] depth 1 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/board-of-governors
+[31] depth 1 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/finance-committee
+[32] depth 1 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/office-of-registrar
+[33] depth 2 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/accounts-and-audits
+[34] depth 2 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/security-unit
+[35] depth 2 200 cache https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/establishment-and-administration
+
+84 URLs seen, 35 accepted, 7 network requests this run

@@ -1,0 +1,354 @@
+url,status,page_type_guess,linked_from,accepted,reject_reason
+https://www.iitp.ac.in/departments/computer-science-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/civil-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/chemical-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/electrical-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/mechanical-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering,200,department,seed,True,
+https://www.iitp.ac.in/departments/chemistry,200,department,seed,True,
+https://www.iitp.ac.in/departments/mathematics,200,department,seed,True,
+https://www.iitp.ac.in/departments/physics,200,department,seed,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences,200,department,seed,True,
+https://www.iitp.ac.in/admissions,200,admissions,seed,True,
+https://www.iitp.ac.in/research/r&d-home,200,research,seed,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department,200,administration,seed,True,
+https://www.iitp.ac.in/about,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/news,200,news,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://academics.iitp.ac.in/,,home,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/administration/leadership-and-governance/administrators,200,administration,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/campus-life,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/search,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/computer-science-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/news/department/computer-science-engineering,200,news,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CSE_B.Tech._Program_Done.pdf,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CSE_AI&DS_B.Tech._Program_Done.pdf,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech._CSE_Done.pdf,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech._AI_Done.pdf,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CSE_Dual_degree_Done%2022-01-2025.pdf,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=62,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=65,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+http://www.iitp.ac.in/~arijit,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=69,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://sites.google.com/view/cadak,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/~smaji,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/~sriparna,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/~som,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://iitp.ac.in/~halder,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/~joydeep,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://ekbalasif.github.io/,,home,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://iitp.ac.in/~rishavsingh,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://sites.google.com/view/rahulmishracse/home,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=95,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=96,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=97,200,faculty,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/~satendra,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://arijit-iitkgp.github.io/,,home,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/research/industrial-consultancy-projects,200,research,https://www.iitp.ac.in/departments/computer-science-engineering,True,
+https://www.iitp.ac.in/visit/find-us,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/opportunities/career-opportunities,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://ccdc.iitp.ac.in/,,home,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/hostels,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/visit/campus-tour,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/gallery,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://library.iitp.ac.in/,,home,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.facebook.com/iitp.ac.in,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://x.com/IITPAT,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.linkedin.com/school/indian-institute-of-technology-patna,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.instagram.com/iit_patna_official,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.youtube.com/IITPatna,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,host not allowed
+https://www.iitp.ac.in/dev,,other,https://www.iitp.ac.in/departments/computer-science-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/civil-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/news/department/civil-engineering,200,news,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CEE_B.Tech._Program_(Civil%20Engg.)_Done.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20Environmental%20Engg_Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech_Rock%20Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.Transportation_Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/MTech%20Structural_Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.-Geotechnical_Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/MTech%20Civil_Engg.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CEE_B.Tech.-M.Tech.%20Environment%20Dual%20Degree%20Program%20(CEE).pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CEE_B.Tech.-M.Tech.%20Geotech%20Dual%20Degree%20Program%20(CEE).pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CEE_B.Tech.-M.Tech.%20StructuralDual%20Degree%20Program%20(CEE).pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CEE_B.Tech.-M.Tech.%20Transportation%20Dual%20Degree%20Program%20(CEE).pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CE_List%20of%20PhD%20Courses.pdf,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=145,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=147,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://souravgur1987.wixsite.com/sgur,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=151,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=153,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=155,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=158,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=160,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=162,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=165,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=167,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=170,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=176,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=182,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=183,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=184,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=186,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://sites.google.com/view/drdeshpande/home?authuser=0,,other,https://www.iitp.ac.in/departments/civil-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=189,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/civil-engineering/faculty/profile?id=191,200,faculty,https://www.iitp.ac.in/departments/civil-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/news/department/chemical-engineering,200,news,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/B.TECH-CSE/sem-1/chemicalengineering.html,,other,https://www.iitp.ac.in/departments/chemical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/B.TECH-CSE/M.TECH/mtech-chem.html,,other,https://www.iitp.ac.in/departments/chemical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=102,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=105,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=108,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=204,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=209,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/~atanu.metya,,other,https://www.iitp.ac.in/departments/chemical-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=224,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=227,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=229,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=230,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/chemical-engineering/faculty/profile?id=231,200,faculty,https://www.iitp.ac.in/departments/chemical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/news/department/electrical-engineering,200,news,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/EE_B.Tech._Program_(EEE)_Done.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/EE_B.Tech._Program_(ECE)_Done.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20CSSP.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.Tech%20in%20VLSI_and_ES.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20in_P&CS).pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/B.%20Tech_M.%20Tech%20VLSI%20and%20Embedded%20System.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/B.%20Tech_M.%20Tech%20%20Communication%20System%20and%20Signal%20Processing.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/B.%20Tech_M.%20Tech%20Power%20and%20Control%20System.pdf,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=200,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=201,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=202,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=203,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=205,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=206,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=207,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=208,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=210,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=211,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=212,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=213,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://iitp.ac.in/~pkumar,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=215,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://iitp.ac.in/~siva,,other,https://www.iitp.ac.in/departments/electrical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=217,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=218,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=220,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=221,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=222,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=223,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=225,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/electrical-engineering/faculty/profile?id=228,200,faculty,https://www.iitp.ac.in/departments/electrical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/news/department/mechanical-engineering,200,news,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/ME_B.Tech._Program_(ME)_Done.pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/ME_B.Tech.-M.Tech.%20Dual%20Degree%20Program%20(ME).pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20Program%20-%20Thermal%20and%20Fluids%20Engineering%20(ME)_Done.pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20Program%20-%20Advanced%20Manufacturing%20Technology%20(ME)_Done.pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20Program%20-%20Mechanical%20Design%20(ME)_Done.pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.%20Tech.%20Program%20-%20Mechatronics%20(ME)_Done.pdf,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=144,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=146,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=148,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=150,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/~rraj,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=154,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/~mpathak,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=157,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=159,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=161,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=163,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=164,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=166,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=168,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=169,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=171,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=172,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=173,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=174,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=177,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=178,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://orcid.org/my-orcid?orcid=0000-0003-0713-4450,,other,https://www.iitp.ac.in/departments/mechanical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=180,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=181,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/mechanical-engineering/faculty/profile?id=199,200,faculty,https://www.iitp.ac.in/departments/mechanical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/directory,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/courses,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/facilities,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/research,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/news/department/metallurgical-engineering,200,news,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/contact,200,department_sub,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/MME_B.Tech._Program_(MME)_Done.pdf,,other,https://www.iitp.ac.in/departments/metallurgical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/MME_M.%20Tech.%20Program%20(MSE)_Done.pdf,,other,https://www.iitp.ac.in/departments/metallurgical-engineering,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/MME_PhD%20MME%20Level%206%20&%207%20_%20Done.pdf,,other,https://www.iitp.ac.in/departments/metallurgical-engineering,False,host not allowed
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=119,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=120,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=124,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=125,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=127,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=129,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=131,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=133,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=136,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=139,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=140,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=141,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/metallurgical-engineering/faculty/profile?id=143,200,faculty,https://www.iitp.ac.in/departments/metallurgical-engineering,True,
+https://www.iitp.ac.in/departments/chemistry/directory,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/courses,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/facilities,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/research,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/news/department/chemistry,200,news,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/contact,200,department_sub,https://www.iitp.ac.in/departments/chemistry,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/CHEM_B.Tech._Program_(Chemistry).pdf,,other,https://www.iitp.ac.in/departments/chemistry,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.Sc.%20Program-(Chemistry)_Done.pdf,,other,https://www.iitp.ac.in/departments/chemistry,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/PhD_Chemistry%20(Done).pdf,,other,https://www.iitp.ac.in/departments/chemistry,False,host not allowed
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=118,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=121,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=122,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=123,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://sites.google.com/view/rajgopalaraoiitp/home,,other,https://www.iitp.ac.in/departments/chemistry,False,host not allowed
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=128,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=130,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=132,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=134,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=135,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=137,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=138,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/chemistry/faculty/profile?id=142,200,faculty,https://www.iitp.ac.in/departments/chemistry,True,
+https://www.iitp.ac.in/departments/mathematics/directory,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/courses,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/facilities,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/research,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/news/department/mathematics,200,news,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/contact,200,department_sub,https://www.iitp.ac.in/departments/mathematics,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/Math_B.Tech._Program_(M&C)_Done.pdf,,other,https://www.iitp.ac.in/departments/mathematics,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/Math%20_%20M.Sc.%20Program_Done.pdf,,other,https://www.iitp.ac.in/departments/mathematics,False,host not allowed
+https://www.iitp.ac.in/~dayasagar,,other,https://www.iitp.ac.in/departments/mathematics,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=101,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=103,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=104,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=106,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=107,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://iitp.ac.in/~sktiwari,,other,https://www.iitp.ac.in/departments/mathematics,False,host not allowed
+https://www.iitp.ac.in/~bhooshan,,other,https://www.iitp.ac.in/departments/mathematics,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=111,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=112,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=113,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=114,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=115,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=116,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/mathematics/faculty/profile?id=117,200,faculty,https://www.iitp.ac.in/departments/mathematics,True,
+https://www.iitp.ac.in/departments/physics/directory,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/courses,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/facilities,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/research,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/news/department/physics,200,news,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/contact,200,department_sub,https://www.iitp.ac.in/departments/physics,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/PH_B.Tech._Program_(Engg.%20Physics)_Done.pdf,,other,https://www.iitp.ac.in/departments/physics,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/M.Sc.%20Program-(Physcis).pdf,,other,https://www.iitp.ac.in/departments/physics,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus/syllabys/PH_Revised%20code%20and%20syllabus%20for%20PhD%20courses.pdf,,other,https://www.iitp.ac.in/departments/physics,False,host not allowed
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=64,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=66,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=67,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=70,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=71,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=72,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=73,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=74,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=75,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://dantham.wixsite.com/mysite-1,,other,https://www.iitp.ac.in/departments/physics,False,host not allowed
+https://aktenergy.in/,,home,https://www.iitp.ac.in/departments/physics,False,host not allowed
+https://www.iitp.ac.in/~ajay.thakur,,other,https://www.iitp.ac.in/departments/physics,False,outside allowed prefixes
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=86,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=87,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=89,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=90,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=92,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/physics/faculty/profile?id=94,200,faculty,https://www.iitp.ac.in/departments/physics,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/directory,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/courses,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/facilities,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/research,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/awards-recognition,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/news/department/humanities-social-sciences,200,news,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/contact,200,department_sub,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://academics.iitp.ac.in/revised_syllabus/syllabys/HSS_BS_in_Economics_Done.pdf,,other,https://www.iitp.ac.in/departments/humanities-social-sciences,False,host not allowed
+https://nalinbharti.in/,,home,https://www.iitp.ac.in/departments/humanities-social-sciences,False,host not allowed
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=187,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=192,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=193,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=194,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=195,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://sites.google.com/view/drswetasinha/home,,other,https://www.iitp.ac.in/departments/humanities-social-sciences,False,host not allowed
+https://sites.google.com/view/prof-smriti-singh,,other,https://www.iitp.ac.in/departments/humanities-social-sciences,False,host not allowed
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=198,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://www.iitp.ac.in/departments/humanities-social-sciences/faculty/profile?id=233,200,faculty,https://www.iitp.ac.in/departments/humanities-social-sciences,True,
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=46&Itemid=204,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=47&Itemid=206,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=48&Itemid=207,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=57&Itemid=223,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=58&Itemid=221,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=68&Itemid=244,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/images/tt/Calender_Autumn_2025.pdf,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/revised_syllabus,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://academics.iitp.ac.in/revised_curriculum,,other,https://www.iitp.ac.in/admissions,False,host not allowed
+https://www.iitp.ac.in/research/people,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/innovation-and-ipr,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/latest-research-in-news,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/regulation,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/research-ethics,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/technology-commercialized,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://www.iitp.ac.in/research/technology-licensing,200,research,https://www.iitp.ac.in/research/r&d-home,True,
+https://iciitp.com/,,home,https://www.iitp.ac.in/research/r&d-home,False,host not allowed
+https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/board-of-governors,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/finance-committee,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/office-of-registrar,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department,True,
+https://www.iitp.ac.in/,,home,https://www.iitp.ac.in/news,False,outside allowed prefixes
+https://www.iitp.ac.in/images/pdf/sriru.pdf,,other,https://www.iitp.ac.in/research/regulation,False,pdf/docx not crawled
+https://www.iitp.ac.in/images/pdf/RD_Handbook.pdf,,other,https://www.iitp.ac.in/research/regulation,False,pdf/docx not crawled
+https://www.iitp.ac.in/images/pdf/IITP_RD_Brochure_2019_1.pdf,,other,https://www.iitp.ac.in/research/regulation,False,pdf/docx not crawled
+https://academics.iitp.ac.in/files/phd_forms/research_ethics.doc,,other,https://www.iitp.ac.in/research/research-ethics,False,host not allowed
+https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/accounts-and-audits,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/security-unit,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units,True,
+https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units/establishment-and-administration,200,administration,https://www.iitp.ac.in/administration/leadership-and-governance/administrative-units,True,
