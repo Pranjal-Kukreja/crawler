@@ -1,6 +1,6 @@
 # IIT Patna knowledge-base pipeline
 
-The data-collection and knowledge-base layer for the IIT Patna **Personalised Learning Buddy** (Adobe problem statement, Inter IIT Tech Meet 15.0 selection round).
+The data-collection and knowledge-base layer for the IIT Patna **Personalised Learning Buddy** (Adobe problem statement).
 
 - Buddy Zero, the assistant: https://github.com/ps-submision-pdev/main-submission
 - Research principles and implementations: https://github.com/ps-submision-pdev/Research-principles-and-implementations
