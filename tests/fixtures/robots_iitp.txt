@@ -1,0 +1,69 @@
+# Robots.txt for Institute Website
+# Generated for optimal SEO and crawler management
+
+# Allow all robots by default
+User-agent: *
+Allow: /
+
+# Disallow sensitive and admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /dev/
+Disallow: /.next/
+Disallow: /private/
+
+# Disallow search functionality from indexing search results
+Disallow: /search?
+
+# Disallow specific query parameters
+Disallow: /*?*sort=
+Disallow: /*?*page=
+Disallow: /*?*filter=
+
+# Allow specific bots for better indexing
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Crawl delay settings (in seconds) - adjust based on your server capacity
+User-agent: *
+Crawl-delay: 1
+
+# Request rate limiting for aggressive crawlers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://insti-website.netlify.app/sitemap.xml
+
+# Allow access to public assets
+Allow: /images/
+Allow: /videos/
+Allow: /fonts/
+Allow: /public/
+
+# Disallow temporary and backup files
+Disallow: /*.pdf$
+Disallow: /*.docx$
+
+# News-specific rules (allow for news crawling)
+Allow: /news/
+Allow: /(micellaneous%20pages)/news/
+
+# Department pages are publicly accessible
+Allow: /departments/
+Allow: /administration/
+Allow: /admissions/
+Allow: /research/
+Allow: /services-amenities/
