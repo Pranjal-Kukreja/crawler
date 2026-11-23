@@ -1,0 +1,11 @@
+httpx
+protego
+beautifulsoup4
+lxml
+pyyaml
+pdfplumber
+pytest
+psutil
+matplotlib
+# benchmark/ only, never imported by the pipeline:
+selenium

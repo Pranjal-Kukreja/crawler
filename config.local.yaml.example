@@ -1,0 +1,3 @@
+# Private settings. Copy this file to config.local.yaml and put your own address in it.
+# config.local.yaml is git-ignored; never commit it.
+contact_email: you@example.com

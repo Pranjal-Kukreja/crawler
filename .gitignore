@@ -1,0 +1,22 @@
+# Private settings (your contact email). Create it from config.local.yaml.example.
+config.local.yaml
+
+# Downloaded syllabus and rules PDFs stay out of git; only their manifest is committed.
+curated_pdfs/*
+!curated_pdfs/MANIFEST.csv
+
+# Generated data stays out of git: the cached pages, the text extracted from the PDFs
+# and the knowledge-base output. The commands in the README rebuild them.
+data/raw/
+data/raw_academics/
+data/pdf_lines/
+data/pdf_blocks/
+data/out/
+
+# Python, macOS and tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store

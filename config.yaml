@@ -1,0 +1,69 @@
+# Settings shared by the pipeline and the benchmark.
+# Your email lives in config.local.yaml (not in git), never in this file.
+
+user_agent_prefix: "IITP-KB-Student-Project"
+
+# The ONLY host we are allowed to talk to. Anything else is refused by the fetcher.
+allowed_hosts:
+  - www.iitp.ac.in
+
+# Where the crawl starts.
+seeds:
+  - https://www.iitp.ac.in/departments/computer-science-engineering
+  # The other 9 departments, read from the home-page menu (not guessed).
+  - https://www.iitp.ac.in/departments/civil-engineering
+  - https://www.iitp.ac.in/departments/chemical-engineering
+  - https://www.iitp.ac.in/departments/electrical-engineering
+  - https://www.iitp.ac.in/departments/mechanical-engineering
+  - https://www.iitp.ac.in/departments/metallurgical-engineering
+  - https://www.iitp.ac.in/departments/chemistry
+  - https://www.iitp.ac.in/departments/mathematics
+  - https://www.iitp.ac.in/departments/physics
+  - https://www.iitp.ac.in/departments/humanities-social-sciences
+  - https://www.iitp.ac.in/admissions
+  - https://www.iitp.ac.in/research/r&d-home
+  - https://www.iitp.ac.in/administration/leadership-and-governance/heads-of-department
+
+# The crawler only follows links under these path prefixes (rule 4).
+allowed_prefixes:
+  - /departments
+  - /admissions
+  - /research
+  - /administration
+  - /services-amenities
+  - /news
+
+# The one exception to "skip every URL with a query string": faculty profile pages are
+# addressed as .../faculty/profile?id=NN, and robots.txt allows them.
+allowed_queries:
+  - path_endswith: /faculty/profile
+    keys: [id]
+
+# Safety net on top of robots.txt: refuse any URL carrying these query keys,
+# whatever robots.txt says.
+blocked_query_keys: [sort, page, filter]
+
+# Syllabus PDFs on the academics site (decision in log.md). This is NOT an allowed host:
+# the fetcher may request ONLY the URLs listed in urls_file, on this one host. The crawler
+# still skips every .pdf/.docx link.
+pdf_downloads:
+  host: academics.iitp.ac.in
+  urls_file: data/academics_pdf_urls.txt
+  # Approved by the user one by one (see log.md): 2 Chemical Engineering HTML syllabus pages,
+  # 6 admissions articles and the Autumn 2025 calendar PDF. Same rule: only these URLs.
+  extra_urls_file: data/academics_extra_urls.txt
+  # Ordinance/regulation PDFs: header-only requests (sizes) until the user approves the download.
+  candidate_urls_file: data/academics_rules_candidates.txt
+  out_dir: curated_pdfs
+
+fetch:
+  min_delay_seconds: 1.5        # gap between requests to the same host (robots says 1; we go slower)
+  timeout_seconds: 20
+  max_retries: 3                # retries after the first try, for network errors / 429 / 5xx
+  backoff_base_seconds: 2       # waits 2s, 4s, 8s ...
+  max_consecutive_blocks: 5     # stop the whole run after this many 403/429 in a row
+  raw_dir: data/raw
+
+crawl:
+  max_depth: 2
+  max_pages: 500
