@@ -1,0 +1,34 @@
+{
+ "winner": "http",
+ "decided_at": "Step 3, cost per page",
+ "trace": [
+  "Step 1: tie. Neither scraper misses text on any page.",
+  "Step 2: tie. Failed page loads HTTP 0, Selenium 0.",
+  "Step 3: active seconds per page, ranges over 3 runs HTTP 0.341 to 0.352, Selenium 0.629 to 0.727. http is lower."
+ ],
+ "pages_where_http_misses_text": [],
+ "pages_where_selenium_misses_text": [],
+ "as_first_written_before_amendment_1": {
+  "winner": "selenium",
+  "decided_at": "Step 1, completeness",
+  "trace": [
+   "Step 1: HTTP misses text on 13 page(s), Selenium on none. Selenium preferred."
+  ],
+  "pages_where_http_misses_text": [
+   "https://www.iitp.ac.in/departments/computer-science-engineering/courses",
+   "https://www.iitp.ac.in/departments/chemical-engineering/courses",
+   "https://www.iitp.ac.in/departments/civil-engineering/courses",
+   "https://www.iitp.ac.in/departments/electrical-engineering/courses",
+   "https://www.iitp.ac.in/departments/mechanical-engineering/courses",
+   "https://www.iitp.ac.in/departments/mathematics/courses",
+   "https://www.iitp.ac.in/departments/physics/courses",
+   "https://www.iitp.ac.in/departments/chemistry/courses",
+   "https://www.iitp.ac.in/departments/metallurgical-engineering/courses",
+   "https://www.iitp.ac.in/departments/humanities-social-sciences/courses",
+   "https://www.iitp.ac.in/departments/computer-science-engineering/faculty",
+   "https://www.iitp.ac.in/departments/mechanical-engineering/faculty",
+   "https://www.iitp.ac.in/departments/computer-science-engineering/directory"
+  ],
+  "pages_where_selenium_misses_text": []
+ }
+}

@@ -1,0 +1,42 @@
+[19:13:59] http run 1 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/http_run1.json
+    done in 48 s
+[19:14:47] selenium run 1 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/selenium_run1.json
+    done in 51 s
+[19:15:39] selenium run 2 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/selenium_run2.json
+    done in 51 s
+[19:16:30] http run 2 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/http_run2.json
+    done in 47 s
+[19:17:17] http run 3 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/http_run3.json
+    done in 48 s
+[19:18:05] selenium run 3 ...
+wrote /Users/pranjalkukreja/Desktop/adobe ps/benchmark/out/selenium_run3.json
+    done in 52 s
+{
+ "winner": "selenium",
+ "decided_at": "Step 1, completeness",
+ "trace": [
+  "Step 1: HTTP misses text on 13 page(s), Selenium on none. Selenium preferred."
+ ],
+ "pages_where_http_misses_text": [
+  "https://www.iitp.ac.in/departments/computer-science-engineering/courses",
+  "https://www.iitp.ac.in/departments/chemical-engineering/courses",
+  "https://www.iitp.ac.in/departments/civil-engineering/courses",
+  "https://www.iitp.ac.in/departments/electrical-engineering/courses",
+  "https://www.iitp.ac.in/departments/mechanical-engineering/courses",
+  "https://www.iitp.ac.in/departments/mathematics/courses",
+  "https://www.iitp.ac.in/departments/physics/courses",
+  "https://www.iitp.ac.in/departments/chemistry/courses",
+  "https://www.iitp.ac.in/departments/metallurgical-engineering/courses",
+  "https://www.iitp.ac.in/departments/humanities-social-sciences/courses",
+  "https://www.iitp.ac.in/departments/computer-science-engineering/faculty",
+  "https://www.iitp.ac.in/departments/mechanical-engineering/faculty",
+  "https://www.iitp.ac.in/departments/computer-science-engineering/directory"
+ ],
+ "pages_where_selenium_misses_text": []
+}
+wrote results.csv, pages.csv, inspect.md, decision.json in /Users/pranjalkukreja/Desktop/adobe ps/benchmark

@@ -1,0 +1,28 @@
+group,url,http_active_s,selenium_active_s,http_bytes,selenium_bytes,http_text_chars,selenium_text_chars,coverage_of_selenium_text_in_http,coverage_of_http_text_in_selenium,http_misses_text,selenium_misses_text,fields_differ,selenium_subrequests
+department main,https://www.iitp.ac.in/departments/computer-science-engineering,0.705,0.9022,795398,1078927,6784,6784,1.0,1.0,,,,86
+department main,https://www.iitp.ac.in/departments/civil-engineering,0.5791,0.7881,793680,810043,6092,6092,1.0,1.0,,,,88
+department main,https://www.iitp.ac.in/departments/chemical-engineering,0.5037,0.8174,791493,814955,4717,4717,1.0,1.0,,,,70
+department main,https://www.iitp.ac.in/departments/electrical-engineering,0.6795,0.8824,795668,824077,8212,8212,1.0,1.0,,,,94
+department main,https://www.iitp.ac.in/departments/mechanical-engineering,0.6404,0.7532,796458,805168,6681,6681,1.0,1.0,,,,102
+department main,https://www.iitp.ac.in/departments/metallurgical-engineering,0.6021,0.8679,793579,804047,9138,9138,1.0,1.0,,,,81
+department main,https://www.iitp.ac.in/departments/chemistry,0.5848,0.8561,791693,802160,5751,5751,1.0,1.0,,,,81
+department main,https://www.iitp.ac.in/departments/mathematics,0.6905,0.8007,791565,802029,3737,3737,1.0,1.0,,,,78
+department main,https://www.iitp.ac.in/departments/physics,0.642,0.7341,793226,819450,6178,6178,1.0,1.0,,,,84
+department main,https://www.iitp.ac.in/departments/humanities-social-sciences,0.6595,0.7193,790595,813995,4288,4288,1.0,1.0,,,,68
+courses,https://www.iitp.ac.in/departments/computer-science-engineering/courses,0.0428,0.0807,11725,11640,1017,1199,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/chemical-engineering/courses,0.0269,0.0707,9811,9727,1669,1851,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/civil-engineering/courses,0.0328,0.0886,11333,11247,1906,2088,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/electrical-engineering/courses,0.0518,0.0734,12304,12219,1383,1565,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/mechanical-engineering/courses,0.035,0.0738,12082,11996,1125,1307,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/mathematics/courses,0.0381,0.0686,10051,9966,693,875,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/physics/courses,0.0711,0.0773,11153,11068,622,804,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/chemistry/courses,0.0669,0.0734,10665,10580,668,850,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/metallurgical-engineering/courses,0.0756,0.089,10956,10871,734,916,1.0,1.0,,,,36
+courses,https://www.iitp.ac.in/departments/humanities-social-sciences/courses,0.0609,0.0693,9707,9622,547,729,1.0,1.0,,,,36
+syllabus HTML,https://academics.iitp.ac.in/revised_syllabus/B.TECH-CSE/sem-1/chemicalengineering.html,0.0755,0.1331,735773,744362,190598,190598,1.0,1.0,,,,6
+syllabus HTML,https://academics.iitp.ac.in/revised_syllabus/B.TECH-CSE/M.TECH/mtech-chem.html,0.0301,0.0642,174988,183578,54367,54367,1.0,1.0,,,,6
+academics,https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=78&Itemid=265,0.3784,1.2379,62722,893652,2534,2534,1.0,1.0,,,,39
+academics,https://academics.iitp.ac.in/index.php?option=com_content&view=article&id=59&Itemid=224,0.3472,0.9089,66929,87195,405,405,1.0,1.0,,,,39
+faculty list,https://www.iitp.ac.in/departments/computer-science-engineering/faculty,0.7152,0.7646,766040,774427,2724,2906,1.0,1.0,,,,97
+faculty list,https://www.iitp.ac.in/departments/mechanical-engineering/faculty,0.7346,0.8737,769045,777716,3702,3884,1.0,1.0,,,,114
+directory,https://www.iitp.ac.in/departments/computer-science-engineering/directory,0.0557,0.0942,23117,23032,1631,1813,1.0,1.0,,,,36
